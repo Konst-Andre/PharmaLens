@@ -1,3 +1,5 @@
+> живе доки: доки PharmaLens не перейшов від брифу до коду (тоді — у `archive/`) · бриф-джерело; перенесено з `docs/` у `lens/` 05.10.2026 (`docs/` — лише сайт, Р-7)
+
 # PharmaLens — Independent Design Research & Handover
 
 **Роль автора:** Principal Product Designer & Design System Architect  
